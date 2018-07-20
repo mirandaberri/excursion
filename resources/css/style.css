@@ -12,7 +12,7 @@ body{
 }
 #download{
   font-size: 16px;
-  color: aquamarine;
+
 }
 #travel{
   font-size: 42px;
@@ -22,4 +22,15 @@ body{
 #camp{
   font-size: 21px;
   color: gray;
+}
+#end{
+  color: white;
+}
+#last{
+  font-size: 16px;
+
+}
+#copy{
+  color: gray;
+  text-align: right;
 }
