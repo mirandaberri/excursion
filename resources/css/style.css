@@ -34,3 +34,7 @@ body{
   color: gray;
   text-align: right;
 }
+.guide{
+font-size: 42px;
+font-weight: 300; 
+}
